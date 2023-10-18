@@ -1,7 +1,7 @@
 
 <div align="center">
   <a>
-    <img src="assets/rrt.gif" alt="header" width="50%">
+    <img src="assets/rrt.gif" alt="header" width="100%">
   </a>
 </div>
 
